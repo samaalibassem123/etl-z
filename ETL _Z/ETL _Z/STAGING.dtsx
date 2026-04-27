@@ -5,14 +5,14 @@
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="DESKTOP-P5D1I92"
   DTS:CreatorName="DESKTOP-P5D1I92\micro"
-  DTS:DTSID="{1675C88D-06C6-400F-B18F-A0F1CB435D89}"
+  DTS:DTSID="{D9E73529-1C3C-4420-8D05-9D1001CB1335}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="17.0.1008.3"
   DTS:LocaleID="1036"
-  DTS:ObjectName="Package"
+  DTS:ObjectName="STAGING"
   DTS:PackageType="5"
-  DTS:VersionBuild="71"
-  DTS:VersionGUID="{629BA4E4-720E-4948-BD2B-7B55A674E09F}">
+  DTS:VersionBuild="72"
+  DTS:VersionGUID="{E31C1798-2429-488A-A929-30FB9687DACD}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
